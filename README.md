@@ -34,11 +34,17 @@ Each value represents an average of all valid nighttime satellite observations d
 
 ## Folder Structure
 ntl_march/
+
 ├── config.py
+
 ├── 01_load_merge_march.py
+
 ├── 02_yoy_march.py
+
 ├── 03_moving_averages_march.py
+
 ├── 04_growth_zone_march.py
+
 └── README.md
 
 ---
